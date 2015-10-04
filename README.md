@@ -1,4 +1,6 @@
 # HUhack
-finds the nearest metro in DC
+Finds the nearest metro in DC
 
-named MetroDC
+named MetroDC in pebble app store
+
+# written by Samman Bikram Thapa
