@@ -1,6 +1,7 @@
 # HUhack
-Finds the nearest metro in DC
+## MetroDC in Pebble App Store
+Finds the nearest metro in DC.
 
-named MetroDC in pebble app store
+Uses WMATA api for metro information.
 
 # written by Samman Bikram Thapa
